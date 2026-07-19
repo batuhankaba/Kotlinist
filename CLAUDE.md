@@ -5,6 +5,11 @@ kurallara **istisnasız** uy. Bir kuralın dışına çıkman gerekiyorsa önce 
 
 ---
 
+## Dil
+
+Kullanıcıyla **her zaman Türkçe** konuş. Açıklamalar, sorular, özetler, commit mesajları
+ve kod yorumları Türkçe olacak. Kod içindeki sınıf/değişken/fonksiyon isimleri İngilizce kalır.
+
 ## 1. Proje Kimliği
 
 Rick & Morty API'sini tüketen, **liste** ve **detay** olmak üzere iki ekranlı bir Android uygulaması.
